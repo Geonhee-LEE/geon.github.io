@@ -55,7 +55,7 @@
 - Underactuated control and 3D simulation, GangnamDynamics
 - Mechanical control, Dept. of Electrical and Information
 - Action engine and 3D simulation, KIST(Korea Institude of Science and Technology)
-- Reinforcement learnig and machine learning, RLI Study, RND ML
+- Reinforcement learnig and machine learning, RLI Study  RND ML
 - Navigation and mobile robot, NSCL(Nano system control laboratory) 
  
 
