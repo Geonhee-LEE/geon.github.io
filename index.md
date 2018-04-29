@@ -61,18 +61,14 @@ Capability
 # Vision using OpenCV, MFC 'compelete'
 # Linux and Embedded PC Porting 'compelete'
 # Git, docker, jeckins 'compelete'
-
-<p>
-    This is <span style="color:red">red text</span> Arm core, MCU control 'Proceeding' <span style="color:#000099">blue text</span>.
-</p>
-This is {c:red}red text{/c} and this is {c:#000099}blue text{/c}.
-__볼드__
-**볼드**
-## Navigation using ROS 'Proceeding'
 # MoveIt using ROS 'compelete'
-## GAZEBO 3D simulation 'Proceeding'
-### Reinforcement learning, machine learning 'to do'
-### MPC(Model Predict Control' 'to do'
+
+Arm core, MCU control 'Proceeding' 
+Navigation using ROS 'Proceeding'
+GAZEBO 3D simulation 'Proceeding'
+
+`Reinforcement learning, machine learning 'to do'`
+`MPC(Model Predict Control' 'to do'`
 
 
 ```
