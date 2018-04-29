@@ -63,7 +63,7 @@
 
 
 ### Paper
-- Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo).2016
+- Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo). 2016
 
 
  
