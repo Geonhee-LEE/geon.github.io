@@ -7,7 +7,8 @@
 
 ### Interests : Robotics, Mechanical control, Reinforcement learning
 
-https://blog.naver.com/rjsgml6392
+
+
 
 ### Contact
 - E-mail : `gunhee6392@gmail.com`
@@ -18,8 +19,12 @@ https://blog.naver.com/rjsgml6392
 
 
 
+
+
 ### Educational Background 
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
+
+
 
 
 
@@ -32,6 +37,8 @@ https://blog.naver.com/rjsgml6392
 
 
 
+
+
 ### Award
 - IRC(Internatinal Robot Contest), Intelligent section 2nd, an award from the minister of Knowledge and Economy, Korea 2012
 - IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, an award from the director of the Patent and Trademark Office, Korea. 2015
@@ -39,6 +46,8 @@ https://blog.naver.com/rjsgml6392
 - IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Presidential prize, Korea. 2016
 - RobotJapan, awards, Tokyo, Japan 2017.
 
+ 
+ 
  
  
 ### Experience
@@ -49,6 +58,7 @@ https://blog.naver.com/rjsgml6392
 - Reinforcement learnig and machine learning, RLI Study, RND ML
 - Navigation and mobile robot, NSCL(Nano system control laboratory) 
  
+
 
 
 
@@ -73,6 +83,9 @@ GAZEBO 3D simulation 'Proceeding'
 
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
 
 
 ### Support or Contact
