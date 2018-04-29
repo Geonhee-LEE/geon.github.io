@@ -40,7 +40,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 ### Award
 - Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 - Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
-- Robogames(12th), CA, USA. 2016.
+- Robogames(12th), California, USA. 2016.
 - President, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 - RobotJapan, awards, Tokyo, Japan 2017.
 
