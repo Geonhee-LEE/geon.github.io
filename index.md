@@ -32,7 +32,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 - Developer, CADI(Mobile application development club). 2014
 - Reseacher, GangnamDynamics, Modulabs. 2016
 - Reseacher, sHRI laboratory(Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
-- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. (2018~)
+- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
 
 
