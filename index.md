@@ -1,5 +1,5 @@
 
-## Name : Lee Geon hee(Sam,lee) 
+## Name : Lee Geon hee
 
 <img src="./images/profile.png" width="300" height="350"  class="center">
 
