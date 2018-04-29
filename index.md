@@ -1,5 +1,5 @@
 
-## Name : Lee Geon hee
+# Name : Lee Geon hee
 
 <img src="./images/profile2.png" width="300" height="350"  class="center">
 
@@ -8,15 +8,16 @@
 
 ### Contact
 
-- E-mail : gunhee6392@gmail.com
-- Facebook : rjsgml6392@nate.com
+- E-mail : `gunhee6392@gmail.com`
+- Facebook : `rjsgml6392@nate.com`
 - Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
- 
 - Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hi-tech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
+
 
 ### Educational Background 
 
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
+
 
 
 ### Experience
@@ -27,10 +28,10 @@
 - Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. 2018
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geonhee-LEE/geon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
 ### Experience
+
+
+
  
  
  
