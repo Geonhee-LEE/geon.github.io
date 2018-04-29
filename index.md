@@ -9,10 +9,8 @@
 ### Contact
 
 -E-mail : gunhee6392@gmail.com
-
 -Facebook : rjsgml6392@nate.com
-
-Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
+-Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
  
 -Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hi-tech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
@@ -25,10 +23,10 @@ Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
 ### Experience
  
 -Undergraduate reseacher, RnD(Robot and DSP - Humanoid robot) laboratory, Seoul National Univ. of Science and Technology. 2012
-
 -Reseacher, GangnamDynamics, Modulabs. 2016
-
 -Reseacher, sHRI laboratory, KIST(Korea Institude of Science and Technology). 2017
+-Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. 2018
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Geonhee-LEE/geon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
