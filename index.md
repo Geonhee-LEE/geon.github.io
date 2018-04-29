@@ -11,7 +11,7 @@
 
 
 ### Contact
-- E-mail : `gunhee6392@gmail.com`
+- E-mail & Slack : `gunhee6392@gmail.com`
 - Facebook : `rjsgml6392@nate.com`
 - blog : [naver blog](https://blog.naver.com/rjsgml6392) (private)
 - Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
