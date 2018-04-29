@@ -20,7 +20,6 @@
 
 
 
-
 ### Educational Background 
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
 
@@ -28,12 +27,12 @@
 
 
 
-
 ### Careers
-- Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor: Youngseok Kim), Seoul National Univ. of Science and Technology. 2012
+- Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor:  [Youngseok Kim](
+http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Technology. 2012
 - Reseacher, GangnamDynamics, Modulabs. 2016
-- Reseacher, sHRI laboratory(Advisor: JongSuk Choi), KIST(Korea Institude of Science and Technology). 2017
-- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor: Chibum Lee), Seoul National Univ. of Science and Technology. (2018~)
+- Reseacher, sHRI laboratory(Advisor: [JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
+- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:  [Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. (2018~)
 
 
 
