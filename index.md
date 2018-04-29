@@ -43,7 +43,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 - Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
 - Robogames(12th), California, USA. 2016.
 - President, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
-- RobotJapan, Tokyo, Japan 2017.
+- RobotJapan(11, Tokyo, Japan 2017.
 
  
  
