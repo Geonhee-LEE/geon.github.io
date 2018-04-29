@@ -29,7 +29,7 @@
 
 ### Award
 - IRC(Internatinal Robot Contest), Intelligent section 2nd, an award from the minister of Knowledge and Economy, Korea 2012
-- IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, an award from the director of the Patent and Trademark Office, Korea
+- IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, an award from the director of the Patent and Trademark Office, Korea. 2015
 - Robogames(12th), Humanoid section awards, CA, USA. 2016
 - IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Presidential prize, Korea. 2016
 - RobotJapan, awards, Tokyo, Japan 2017.
