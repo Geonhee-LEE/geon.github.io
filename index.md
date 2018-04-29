@@ -1,6 +1,6 @@
 # Welcome to Geonhee Pages
 
-![Profile](./images/profile.jpeg=250x250)
+![Profile](./images/profile.jpeg =250x250)
 ## Name : Lee Geon hee(Sam,lee)
 
 ### Interests : Robotics, Mechanical control, Reinforcement learning
