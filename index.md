@@ -1,5 +1,5 @@
 
-# Name : Lee Geon hee
+# Name : Geon hee Lee 
 
 <img src="./images/profile2.png" width="300" height="360"  class="center">
 
