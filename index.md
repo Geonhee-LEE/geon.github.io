@@ -1,7 +1,7 @@
 
 ## Name : Lee Geon hee
 
-<img src="./images/profile.png" width="300" height="350"  class="center">
+<img src="./images/profile2.png" width="300" height="350"  class="center">
 
 
 ### Interests : Robotics, Mechanical control, Reinforcement learning
