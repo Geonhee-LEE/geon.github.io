@@ -7,11 +7,12 @@
 
 ### Interests : Robotics, Mechanical control, Reinforcement learning
 
-
+https://blog.naver.com/rjsgml6392
 
 ### Contact
 - E-mail : `gunhee6392@gmail.com`
 - Facebook : `rjsgml6392@nate.com`
+- blog : [naver blog](https://blog.naver.com/rjsgml6392) (private)
 - Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
 - Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hi-tech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
@@ -59,6 +60,7 @@ Capability
 
 # Vision using OpenCV, MFC 'compelete'
 # Linux and Embedded PC Porting 'compelete'
+# Git, docker, jeckins 'compelete'
 ## Arm core, MCU control 'Proceeding'
 ## Navigation using ROS 'Proceeding'
 # MoveIt using ROS 'compelete'
