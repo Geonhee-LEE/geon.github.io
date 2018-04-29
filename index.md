@@ -30,10 +30,10 @@
 
 
 ### Careers
-- Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory, Seoul National Univ. of Science and Technology. 2012
+- Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor: Youngseok Kim), Seoul National Univ. of Science and Technology. 2012
 - Reseacher, GangnamDynamics, Modulabs. 2016
 - Reseacher, sHRI laboratory, KIST(Korea Institude of Science and Technology). 2017
-- Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. (2018~)
+- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor: Chibum Lee), Seoul National Univ. of Science and Technology. (2018~)
 
 
 
