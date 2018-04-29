@@ -1,9 +1,12 @@
-## Welcome to GEonhee Pages
+## Welcome to Geonhee Pages
 
 
-### Markdown
+### Lee Geon hee
+## Interests : Robotics, Mechanical control, Reinforcement learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Contact
+  - E-mail : gunhee6392@gmail.com
+  - Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
 ```markdown
 Syntax highlighted code block
