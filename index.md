@@ -61,7 +61,10 @@ Capability
 # Vision using OpenCV, MFC 'compelete'
 # Linux and Embedded PC Porting 'compelete'
 # Git, docker, jeckins 'compelete'
-**Arm core, MCU control 'Proceeding'**
+
+<p>
+    This is <span style="color:red">red text</span> Arm core, MCU control 'Proceeding' <span style="color:#000099">blue text</span>.
+</p>
 ## Navigation using ROS 'Proceeding'
 # MoveIt using ROS 'compelete'
 ## GAZEBO 3D simulation 'Proceeding'
