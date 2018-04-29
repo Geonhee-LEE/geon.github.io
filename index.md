@@ -49,7 +49,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
  
  
 ### Experience
-- Vision and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
+- Vision(Image processing using Depth camera) and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
 - Underactuated control and 3D simulation, GangnamDynamics
 - Mechanical control, Dept. of Electrical and Information
 - Action engine and 3D simulation, KIST(Korea Institude of Science and Technology)
