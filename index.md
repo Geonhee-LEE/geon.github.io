@@ -24,9 +24,8 @@
 - Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory, Seoul National Univ. of Science and Technology. 2012
 - Reseacher, GangnamDynamics, Modulabs. 2016
 - Reseacher, sHRI laboratory, KIST(Korea Institude of Science and Technology). 2017
-- Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. 2018
+- Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. (2018~)
 
-### Experience
 
 ### Award
 - IRC(Internatinal Robot Contest), Intelligent section 2nd, an award from the minister of Knowledge and Economy, Korea 2012
@@ -36,6 +35,13 @@
 - RobotJapan, awards, Tokyo, Japan 2017.
 
  
+### Experience
+- Vision and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
+- Underactuated control and 3D simulation, GangnamDynamics
+- Mechanical control, Dept. of Electrical and Information
+- Action engine and 3D simulation, KIST(Korea Institude of Science and Technology)
+- Reinforcement learnig and machine learning, RLI Study, RND ML
+- Navigation and mobile robot, KIST(Korea Institude of Science and Technology)
  
  
 ```markdown
