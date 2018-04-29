@@ -1,7 +1,6 @@
 # Welcome to Geonhee Pages
 
-![Profile](./images/profile.png){: width="10" height="10"}
-<img src="./images/profile.png" width="300" height="300">
+<img src="./images/profile.png" width="140" height="100">
 
 ## Name : Lee Geon hee(Sam,lee)
 
