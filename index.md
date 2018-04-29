@@ -69,10 +69,10 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 
 Capability
 
-# Vision using OpenCV, MFC 'compelete'
-# Linux and Embedded PC Porting 'compelete'
-# Git, docker, jeckins 'compelete'
-# MoveIt using ROS 'compelete'
+# Vision using OpenCV, MFC 'complete'
+# Linux and Embedded PC Porting 'complete'
+# Git, docker, jeckins 'complete'
+# MoveIt using ROS 'complete'
 
 Arm core, MCU control 'Proceeding' 
 Navigation using ROS 'Proceeding'
