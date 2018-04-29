@@ -44,24 +44,21 @@
 - Navigation and mobile robot, KIST(Korea Institude of Science and Technology)
  
  
+ 
 ```markdown
-Syntax highlighted code block
+Capability
 
-# Header 1
-## Header 2
-### Header 3
+Vision using OpenCV, MFC 'compelete'
+Linux and Embedded PC Porting 'compelete'
+Arm core, MCU control 'Proceeding'
+Navigation using ROS 'Proceeding'
+MoveIt using ROS 'compelete'
+GAZEBO 3D simulation 'Proceeding'
+Reinforcement learning, machine learning 'to do'
+MPC(Model Predict Control' 'to do'
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
