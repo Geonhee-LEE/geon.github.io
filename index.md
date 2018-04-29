@@ -15,7 +15,7 @@
 - Facebook : `rjsgml6392@nate.com`
 - blog : [naver blog](https://blog.naver.com/rjsgml6392) (private)
 - Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
-- Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hi-tech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
+- Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hightech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
 
 
