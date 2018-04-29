@@ -4,10 +4,11 @@
 <img src="./images/profile2.png" width="300" height="350"  class="center">
 
 
+
 ### Interests : Robotics, Mechanical control, Reinforcement learning
 
-### Contact
 
+### Contact
 - E-mail : `gunhee6392@gmail.com`
 - Facebook : `rjsgml6392@nate.com`
 - Instagram : [_lee_geon_hee_](https://www.instagram.com/_lee_geon_hee_/)
@@ -15,22 +16,24 @@
 
 
 ### Educational Background 
-
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
 
 
 
-### Experience
- 
+### Careers
 - Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory, Seoul National Univ. of Science and Technology. 2012
 - Reseacher, GangnamDynamics, Modulabs. 2016
 - Reseacher, sHRI laboratory, KIST(Korea Institude of Science and Technology). 2017
 - Graduate reseacher, NSCL(Nano system control laboratory), Seoul National Univ. of Science and Technology. 2018
 
-
 ### Experience
 
-
+### Award
+- IRC(Internatinal Robot Contest), Intelligent section 2nd, an award from the minister of Knowledge and Economy, Korea 2012
+- IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, an award from the director of the Patent and Trademark Office, Korea
+- Robogames(12th), Humanoid section awards, CA, USA. 2016
+- IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Presidential prize, Korea. 2016
+- RobotJapan, awards, Tokyo, Japan 2017.
 
  
  
