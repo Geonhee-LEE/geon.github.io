@@ -52,12 +52,12 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
  
  
 ### Experience
-- Vision(Image processing using Depth camera) and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
-- Underactuated control and 3D simulation, GangnamDynamics
-- Rotary inverted pendulum using arm core, Dept. of Electrical and Information
-- Action engine and 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
-- Reinforcement learnig and machine learning, RLI Study and RND ML
-- Navigation and mobile robot, NSCL(Nano system control laboratory) 
+>  Vision(Image processing using Depth camera) and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
+>  Underactuated control and 3D simulation, GangnamDynamics
+>  Rotary inverted pendulum using arm core, Dept. of Electrical and Information
+>  Action engine and 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
+>  Reinforcement learnig and machine learning, RLI Study and RND ML
+>  Navigation and mobile robot, NSCL(Nano system control laboratory) 
  
 [Detailed Technology](./tech_page.html).
 
