@@ -1,7 +1,6 @@
 
 # Name : Geon hee Lee 
 
-[Link to another page](./another_page.html).
 
 <img src="./images/profile2.png" width="300" height="360"  class="center">
 
@@ -59,6 +58,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 - Reinforcement learnig and machine learning, RLI Study and RND ML
 - Navigation and mobile robot, NSCL(Nano system control laboratory) 
  
+[Detailed Technology](./tech_page.html).
 
 
 
