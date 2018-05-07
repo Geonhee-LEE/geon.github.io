@@ -27,7 +27,7 @@
 
 
 
-|:-------------|:------------------|:------|
+---
 
 ### Careers
 - Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor:[Youngseok Kim](
@@ -40,7 +40,6 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 
 
 
-|:-------------|:------------------|:------|
 ### Awards
 - Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 - Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
@@ -52,7 +51,6 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
  
  
  
-|:-------------|:------------------|:------|
 ### Experience
 - Vision(Image processing using Depth camera) and Robot sports algorithm, RnD(Robot and DSP-Humanoid robot) laboratory
 - Underactuated control and 3D simulation, GangnamDynamics
@@ -66,13 +64,12 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
 
 
 
-|:-------------|:------------------|:------|
 ### Paper
 - Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo). 2016
 
 
 
-|:-------------|:------------------|:------|
+---
  
 ```markdown
 
