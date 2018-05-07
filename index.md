@@ -1,6 +1,8 @@
 
 # Name : Geon hee Lee 
 
+[Link to another page](./another_page.html).
+
 <img src="./images/profile2.png" width="300" height="360"  class="center">
 
 
