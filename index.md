@@ -21,13 +21,13 @@
 
 
 
+---
+
+
 ### Educational Background 
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
 
 
-
-
----
 
 ### Careers
 - Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor:[Youngseok Kim](
