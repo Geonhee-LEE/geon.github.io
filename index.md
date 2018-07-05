@@ -77,19 +77,20 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
  
 ```markdown
 
-Capability
+Experience
 
-# Vision using OpenCV, MFC 'complete'
-# Linux and Embedded PC Porting 'complete'
-# Git, docker, jeckins 'complete'
-# MoveIt using ROS 'complete'
+# Vision using OpenCV, MFC 
+# Linux and Embedded PC Porting 
+# Git, docker, jeckins 
+# MoveIt using ROS 
+# Arm core, MCU control 
+# GAZEBO 3D simulation 
 
-Arm core, MCU control 'Proceeding' 
-Navigation using ROS 'Proceeding'
-GAZEBO 3D simulation 'Proceeding'
+Navigation using ROS 
+Reinforcement learning, machine learning
 
-`Reinforcement learning, machine learning 'to do'`
-`MPC(Model Predict Control' 'to do'`
+
+`To do: MPC(Model Predict Control)`
 
 
 ```
