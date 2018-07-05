@@ -77,7 +77,7 @@ http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Te
  
 ```markdown
 
-Experience
+Experience:
 
 # Vision using OpenCV, MFC 
 # Linux and Embedded PC Porting 
@@ -86,11 +86,14 @@ Experience
 # Arm core, MCU control 
 # GAZEBO 3D simulation 
 
+Doing:
+
 Navigation using ROS 
 Reinforcement learning, machine learning
 
 
-`To do: MPC(Model Predict Control)`
+`To do:` 
+`MPC(Model Predict Control)`
 
 
 ```
