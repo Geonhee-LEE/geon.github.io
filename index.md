@@ -31,7 +31,7 @@
 
 ### Careers
 - Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor:[Youngseok Kim](
-http://www.adblcenter.kr/DaVinciHi.php)), Seoul National Univ. of Science and Technology. 2012
+http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 - Developer, CADI(Mobile application development club). 2014
 - Reseacher, GangnamDynamics, Modulabs. 2016
 - Reseacher, [sHRI laboratory](https://shri-lab-kist.github.io/) (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
