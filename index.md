@@ -59,7 +59,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Action engine and 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
 
->  Reinforcement learnig and machine learning, RLI Study and RND ML
+>  Reinforcement learnig and machine learning, RLI Study, RND ML, Reinforcement learning Korea-Break DQN Team
 
 >  Navigation and mobile robot, NSCL(Nano system control laboratory) 
  
