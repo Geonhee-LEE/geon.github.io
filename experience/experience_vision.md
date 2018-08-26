@@ -13,3 +13,5 @@
 
 [![Video](../assets/rnd/penalty_kick.png)](https://youtu.be/PTTJLG46A4Q)
 
+[![Video](../assets/rnd/penalty_kick.png)](https://www.youtube.com/watch?v=ccYMcN_tMOM)
+
