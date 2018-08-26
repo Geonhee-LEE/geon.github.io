@@ -1,23 +1,18 @@
 
 ```markdown
 
-# Experience:
+Preparing...
 
-# Vision using OpenCV, MFC 
-# Linux and Embedded PC Porting 
-# Git, docker, jeckins 
-# MoveIt using ROS 
-# Arm core, MCU control 
-# GAZEBO 3D simulation 
+// # Image processing based on OpenCV & MFC 
+// # Embedded PC Porting 
+// # ROS(MoveIt, Navigation,OpenCV...)
+// # Micro Control Unit(Atmeta, Arm core, arduino, OpenCR) 
+// # GAZEBO 3D simulator
+// # Git, docker, jeckins, Ionic
+// Navigation based on ROS 
+// Machine Learning
+// MPC(Model Predict Control):
 
-Doing:
-
-Navigation using ROS 
-Reinforcement learning, machine learning
-
-
-`To do: 
-MPC(Model Predict Control)`[back](./)
 
 
 ```
