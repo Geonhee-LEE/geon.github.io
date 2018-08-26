@@ -80,8 +80,7 @@ program and linked silbot3_xmlparsing package.
 
 6. Silbot3_msgs
 
-It is a package provided by the Robocare.
-It included msg and service file for working Silbot3.
+It is a package provided by the Robocare and included msg and service file for working Silbot3.
 
 7. Silbot3_omniwheels(incomplete)
 
@@ -197,7 +196,7 @@ roslaunch silbot3_gazebo silbot_arm_trajectory_controller.launch
 
 It is saved in the ./doc folder.
 
-It can make xml file in the Rviz using Silbot3.
+It can make xml files in the Rviz using Silbot3.
 First, you can see this GUI when you command as:
 ```
 roslaunch silbot3_motion_generation motionGenerationProgram.launch
