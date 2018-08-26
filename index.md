@@ -5,19 +5,19 @@
 
 
 ### Interests : 
-- Robotics
+- `Robotics`
 
-- Model-based control(Model Predictive Control)
+- `Model-based control(Model Predictive Control)`
 
-- Reinforcement learning
+- `Reinforcement learning`
 
 
 ### Contact
--  E-mail:   `gunhee6392@gmail.com`
+-  `E-mail`:   ```gunhee6392@gmail.com```
 
--  Blog:     [Deprecated & Privated](https://blog.naver.com/rjsgml6392)
+-  `Blog`:     [Deprecated & Privated](https://blog.naver.com/rjsgml6392)
 
--  Address:  Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hightech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
+-  `Address`:  Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hightech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
 
 ###  Bio
