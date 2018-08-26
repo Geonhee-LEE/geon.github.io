@@ -9,7 +9,7 @@
 
 # Careers
 
-- During Undergraduate student
+-  During Undergraduate student
 
 >  Undergraduate reseacher,[RnD (Robot and DSP - Humanoid robot)](./rnd.html)laboratory (Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
@@ -22,7 +22,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 
-- During Graduate student
+-  During Graduate student
 
 >  Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
