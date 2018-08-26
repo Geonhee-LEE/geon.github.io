@@ -13,7 +13,7 @@
 
 
 ### Contact
--  `E-mail`:   ```gunhee6392@gmail.com```
+-  `E-mail`:   gunhee6392@gmail.com
 
 -  `Blog`:     [Deprecated & Privated](https://blog.naver.com/rjsgml6392)
 

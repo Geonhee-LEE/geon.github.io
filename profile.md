@@ -1,49 +1,48 @@
 
-### Educational Background 
-```
-- BS. Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering. 2018 
-- The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
-```
+# Educational Background 
+>  BS. Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering. 2018 
+>  The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
 
-### Careers
 
-#### During Undergraduate student
-- Undergraduate reseacher, RnD(Robot and DSP - Humanoid robot) laboratory(Advisor:[Youngseok Kim](
+# Careers
+
+## During Undergraduate student
+>  Undergraduate reseacher, RnD(Robot and DSP - Humanoid robot) laboratory(Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 
-- Developer, CADI(Mobile application development club). 2014
+>  Developer, CADI(Mobile application development club). 2014
 
-- Reseacher, GangnamDynamics, Modulabs. 2016
+>  Reseacher, GangnamDynamics, Modulabs. 2016
 
-- Reseacher, [sHRI laboratory](https://shri-lab-kist.github.io/) (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
-
-
-#### During Graduate student
-- Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
-
-- Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018
-
-- Member, Reinforcement Learning Korea(BreakDQN). 2018  
+>  Reseacher, [sHRI laboratory](https://shri-lab-kist.github.io/) (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
 
 
+## During Graduate student
+>  Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
-### Awards
-- Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
+>  Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018
 
-- Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
+>  Member, Reinforcement Learning Korea(BreakDQN). 2018  
 
-- Awards, [Robogames(12th)](http://robogames.net/2016.php), California, USA. 2016.
 
-- Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 
-- Awards, RobotJapan(9, 11th), Tokyo, Japan.
+# Awards
+>  Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
+
+>  Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
+
+>  Awards, [Robogames(12th)](http://robogames.net/2016.php), California, USA. 2016.
+
+>  Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
+
+>  Awards, RobotJapan(9, 11th), Tokyo, Japan.
 
  
  
  
  
-### Experience
->  [Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot)](./experience_vision.html)laboratory
+# Experience
+>  [Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory)](./experience_vision.html)
 
 >  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics
 
@@ -59,8 +58,8 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 
-### Paper
-- Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo). 2016
+# Paper
+>  Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo). 2016
 
 
 
