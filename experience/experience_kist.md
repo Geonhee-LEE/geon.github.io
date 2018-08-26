@@ -1,6 +1,3 @@
-
-```markdown
-
 # sHRI-Lab : Action Engine
 
 This repository is used to make silbot3 expression, which contain motion generation(MoveIt) and xml parsing package and action manager and move_control
@@ -10,10 +7,9 @@ This repository is used to make silbot3 expression, which contain motion generat
 It is used to make motion file with xml format and classify motion along with mode.
 
 ### 1.1 Framework Structure
-```
-![Structure](./../assets/images/robot_structure.png)
 
-```markdown
+![Structure](../assets/images/robot_structure.png)
+
 ### 1.2 Node Description
 
 Action Manager :
@@ -26,17 +22,13 @@ Facial Expression Controller :
 ### 1.3 Action Mode & Action Description
 
 #### List of Robot Mode
-```
+
 ![](../assets/images/robot_mode_list.png)
 
-
-```markdown
 #### List of Robot Action
-```
 
 ![](../assets/images/robot_action_list.png)
 
-```markdown
 Action manager(silbot3_action_manager) selects action mode according to input of action interface and current state and manages controllers with actionlib.
 
 Basic concept(with rosgraph)
@@ -48,16 +40,12 @@ Basic concept(with rosgraph)
 - if the current state of Action manager is ACTIVE_MODE, motion and facial controlller will work.
 
 - It is a image when it is connected between action_manager and facial controller.
-```
+
 <img src="../assets/images/facial_rosgraph.png" width="500">
 
-```markdown
 - The data associated with each action mode is uploaded in XML Server.
-```
+
 <img src="../assets/images/XmlServer.png" width="500">
-
-
-```markdown
 ### 1.4 Package Description
 
 1. Silbor3_2dnav
@@ -179,21 +167,17 @@ Load the model of Silbot3 in the GAZEBO.
 ```
 roslauch silbot3_description only_silbot.launch
 ```
-```
 
 <img src="../assets/images/gazebo_1.png" width="300">
 
-```markdown
 Load the model of Silbot3 with obstacles in the GAZEBO.
 
 ```
 roslaunch silbot3_description silbot3_collision_xacro.launch
 ```
-```
 
 <img src="../assets/images/gazebo_2.png" width="300">
 
-```markdown
 Load the model of Silbot3 with obstacle in the GAZEBO and controller.
 Once you load the model,
 ```
@@ -219,28 +203,25 @@ First, you can see this GUI when you command as:
 roslaunch silbot3_motion_generation motionGenerationProgram.launch
 ```
 **(Please check “Allow Approximate IK Solution” checkbox in left-bottom since it can give to control arm of silbot3 easily.)**
-```
+
 <img src="../assets/images/motion_1.png" width="500">
 
-```markdown
 Second, You can choice Planning tab in left-bottom for making xml file
 In this case, you can control silbot3 using interactive markers
 When you click the “Plan” button, you can see trajectory to which arm and head of silbot3 move according.
 **(Its process isn’t affect making a xml file.)**
 When you click the “Execute” or “Plan and Execute” button, making a xml file immediately works according to the trajectory of “Plan” and depends on previous operation.
-```
+
 <img src="../assets/images/motion_2.png" width="500">
 
 
-```markdown
 Finally, you can modulate many parameters and determine file name and directory. INITIALIZATION_FROM_YAML param confirms whether it is initialized using yaml file.
 FILE_NAME param is file name which you want to take. FILE_DIRECTORY is saved directory of file which you want to take. rate param is the rate of /joint_state topic. MOTION_TIME_RESOLUTION param is value of time gap of xml file. AUTO_SPEED_CONTROL_MODE param is autonomous mode, if you select it, it autonomously decide param of speed value. ARM_SPEED_VALUE, HEAD_SPEED_VALUE described with speed value in xml file.
 param is value to be TOTAL_TRAJECTORY_CNT param is count how to work frequently, but it don’t need to control.
 LATENCY params provide latency function, it can be selected with group and should have amount of latency time in order to work
-```
+
 <img src="../assets/images/motion_3.png" width="500">
 
-```markdown
 ### 3.3 Playing the created motion in GAZEBO.
 
 In order to play motion of slilbot3 with xml file in GAZEBO, you will mostly use the silbot3_xmlparsing package.
@@ -268,4 +249,3 @@ rostopic pub /task silbot3_action_manager/inputTask "intention: 'active_mode'pol
 
 
 
-```
