@@ -20,17 +20,17 @@
 -  Address:  Dept. of Mechanical system design engineering, Seoul National Univ. of Science and Technology, Hightech 239, 172 Gongneung 2-dong, Nowon-gu, Seoul 139-743, Korea.
 
 
-###  Award, Careers, Paper
+###  Bio
 
--  [Detailed Profile](./profile.html).
+-  [Award, Careers, Paper](./profile.html).
  
 
 
  
 
-###  Technical report & Study files
+###  Technical History
 
--  [Detailed Data](./technical_report.html).
+-  [Technical report & Study files](./technical_report.html).
 
 
 
