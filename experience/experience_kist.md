@@ -1,3 +1,6 @@
+
+```markdown
+
 # sHRI-Lab : Action Engine
 
 This repository is used to make silbot3 expression, which contain motion generation(MoveIt) and xml parsing package and action manager and move_control
@@ -8,7 +11,7 @@ It is used to make motion file with xml format and classify motion along with mo
 
 ### 1.1 Framework Structure
 
-![Structure](./assets/images/robot_structure.png)
+![Structure](../assets/images/robot_structure.png)
 
 ### 1.2 Node Description
 
@@ -23,11 +26,11 @@ Facial Expression Controller :
 
 #### List of Robot Mode
 
-![](./assets/images/robot_mode_list.png)
+![](../assets/images/robot_mode_list.png)
 
 #### List of Robot Action
 
-![](./assets/images/robot_action_list.png)
+![](../assets/images/robot_action_list.png)
 
 Action manager(silbot3_action_manager) selects action mode according to input of action interface and current state and manages controllers with actionlib.
 
@@ -41,11 +44,11 @@ Basic concept(with rosgraph)
 
 - It is a image when it is connected between action_manager and facial controller.
 
-<img src="./assets/images/facial_rosgraph.png" width="500">
+<img src="../assets/images/facial_rosgraph.png" width="500">
 
 - The data associated with each action mode is uploaded in XML Server.
 
-<img src="./assets/images/XmlServer.png" width="500">
+<img src="../assets/images/XmlServer.png" width="500">
 ### 1.4 Package Description
 
 1. Silbor3_2dnav
@@ -168,7 +171,7 @@ Load the model of Silbot3 in the GAZEBO.
 roslauch silbot3_description only_silbot.launch
 ```
 
-<img src="./assets/images/gazebo_1.png" width="300">
+<img src="../assets/images/gazebo_1.png" width="300">
 
 Load the model of Silbot3 with obstacles in the GAZEBO.
 
@@ -176,7 +179,7 @@ Load the model of Silbot3 with obstacles in the GAZEBO.
 roslaunch silbot3_description silbot3_collision_xacro.launch
 ```
 
-<img src="./assets/images/gazebo_2.png" width="300">
+<img src="../assets/images/gazebo_2.png" width="300">
 
 Load the model of Silbot3 with obstacle in the GAZEBO and controller.
 Once you load the model,
@@ -204,7 +207,7 @@ roslaunch silbot3_motion_generation motionGenerationProgram.launch
 ```
 **(Please check “Allow Approximate IK Solution” checkbox in left-bottom since it can give to control arm of silbot3 easily.)**
 
-<img src="./assets/images/motion_1.png" width="500">
+<img src="../assets/images/motion_1.png" width="500">
 
 Second, You can choice Planning tab in left-bottom for making xml file
 In this case, you can control silbot3 using interactive markers
@@ -212,7 +215,7 @@ When you click the “Plan” button, you can see trajectory to which arm and he
 **(Its process isn’t affect making a xml file.)**
 When you click the “Execute” or “Plan and Execute” button, making a xml file immediately works according to the trajectory of “Plan” and depends on previous operation.
 
-<img src="./assets/images/motion_2.png" width="500">
+<img src="../assets/images/motion_2.png" width="500">
 
 
 Finally, you can modulate many parameters and determine file name and directory. INITIALIZATION_FROM_YAML param confirms whether it is initialized using yaml file.
@@ -220,7 +223,7 @@ FILE_NAME param is file name which you want to take. FILE_DIRECTORY is saved dir
 param is value to be TOTAL_TRAJECTORY_CNT param is count how to work frequently, but it don’t need to control.
 LATENCY params provide latency function, it can be selected with group and should have amount of latency time in order to work
 
-<img src="./assets/images/motion_3.png" width="500">
+<img src="../assets/images/motion_3.png" width="500">
 
 ### 3.3 Playing the created motion in GAZEBO.
 
@@ -249,3 +252,4 @@ rostopic pub /task silbot3_action_manager/inputTask "intention: 'active_mode'pol
 
 
 
+```
