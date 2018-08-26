@@ -36,7 +36,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
 
->  Awards, Robogames(12th), California, USA. 2016.
+>  Awards, Robogames(12th), California, USA(United States of America). 2016.
 
 >  Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 
