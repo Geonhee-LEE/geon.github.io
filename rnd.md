@@ -3,7 +3,7 @@
 
 # Team RND Description
 
-## Seoul National University of Technology Mechatronics Lab
+## Seoul National University of Science and Technology, Mechatronics Lab
 
 Room 317, Frontier Hall, Seoul National University of Technology, Gongneung 2(i)-dong, 139-743 Nowon-gu, Seoul, Republic of Korea(http://cafe.naver.com/snutrnd)
 
