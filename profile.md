@@ -45,7 +45,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
  
  
 # Experience
->  [Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory)](./experience_vision.html)
+>  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory)[Detailed..](./experience_vision.html)
 
 >  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics
 

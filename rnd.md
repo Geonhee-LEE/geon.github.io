@@ -1,8 +1,8 @@
-<img src="./images/new1.png"  class="center">
+<img src="./images/news1.png"  class="center">
 
-<img src="./images/new2.png"  class="center">
+<img src="./images/news2.png"  class="center">
 
-<img src="./images/new3.png"  class="center">
+<img src="./images/news3.png"  class="center">
 
 
 
