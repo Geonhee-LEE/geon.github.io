@@ -10,7 +10,7 @@
 # Careers
 
 ### During Undergraduate student
->  Undergraduate reseacher,[RnD](./rnd.html)(Robot and DSP - Humanoid robot)laboratory (Advisor:[Youngseok Kim](
+>  Undergraduate reseacher,[RnD (Robot and DSP - Humanoid robot)](./rnd.html)laboratory (Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 
 >  Software developer,[CADI](https://cafe.naver.com/teamcadi/)(Mobile application development club). 2014
