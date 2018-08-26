@@ -1,0 +1,37 @@
+---------master branch ---------
+
+sudo apt-get install ros-kinetic-gazebo-ros-control
+sudo apt-get install ros-kinetic-moveit*
+sudo apt-get install ros-kinetic-joint-state-controller*
+sudo apt-get install ros-kinetic-interactive-markers 
+sudo apt-get install ros-kinetic-dynamic-reconfigure 
+
+
+catkin_make --pkg silbot3_motion_controller
+catkin_make --pkg silbot3_gazing_controller
+catkin_make --pkg silbot3_movement_controller
+catkin_make --pkg silbot3_facial_controller
+catkin_make --pkg silbot3_speech_controller
+catkin_make --pkg silbot3_xmlparsing
+
+sudo cp -rp ~/silbot3_ws/devel/include/silbot3_xmlparsing /opt/ros/kinetic/include/
+
+
+---------gazing controller branch ---------
+catkin_make --pkg silbot3_msgs
+<<<<<<< HEAD
+=======
+
+
+
+
+--------------launch-------------------
+
+roslaunch silbot3_action_manager silbot3_action_manager.launch --screen(remote)
+roslaunch silbot3_action_manager silbot3_manager_interface.launch --screen(remote)
+roslaunch silbot3_action_manager silbot3_action_controller.launch --screen(remote)
+roslaunch silbot3_bringup minimum.launch --screen (silbot3)
+
+rostopic pub /task silbot3_action_manager/inputTask "intention: 'active_mode'polite: 1.0" 
+
+>>>>>>> origin/motionctr
