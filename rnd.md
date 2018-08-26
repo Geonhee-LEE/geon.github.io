@@ -1,3 +1,6 @@
+
+<img src="./images/15.png"  class="center">
+
 # Team RND Description
 
 ## Seoul National University of Technology Mechatronics Lab
@@ -132,7 +135,7 @@ the many things that our team would like to point out is that most of motor cont
 
 [![Video](../assets/rnd/penalty_kick.png)](https://youtu.be/PTTJLG46A4Q)
 
-[![Video](../assets/rnd/penalty_kick.png)](https://www.youtube.com/watch?v=ccYMcN_tMOM)
+[![Video](../assets/rnd/robocup.png)](https://www.youtube.com/watch?v=ccYMcN_tMOM)
 
 
 
