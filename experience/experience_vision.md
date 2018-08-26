@@ -1,10 +1,11 @@
-# Humanoid Robot competition
+# Some examples in brief
+
 ![Structure](../assets/rnd/1.png)
 ![Structure](../assets/rnd/11.png)
 ![Structure](../assets/rnd/2.png)
 ![Structure](../assets/rnd/3.png)
 
-# Video
+# Demo Video
 
 [![Video](../assets/rnd/autonomous_walking.png)](https://youtu.be/kQNjoTFVPc4)
 
