@@ -1,13 +1,14 @@
 
 ### Educational Background 
+```
 - BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
-- the master´s course Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
-
+- The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
+```
 
 ### Careers
 
 #### During Undergraduate student
-- Undergraduate reseacher, RnD(Robot and DSP-Humanoid robot) laboratory(Advisor:[Youngseok Kim](
+- Undergraduate reseacher, RnD(Robot and DSP - Humanoid robot) laboratory(Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 
 - Developer, CADI(Mobile application development club). 2014
