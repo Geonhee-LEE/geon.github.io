@@ -1,4 +1,4 @@
-# Team RND Description Paper
+# Team RND Description
 
 ## Seoul National University of Technology Mechatronics Lab
 
@@ -130,7 +130,7 @@ the many things that our team would like to point out is that most of motor cont
 
 
 
-
+# News
 
 
 
