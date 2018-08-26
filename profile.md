@@ -48,13 +48,13 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 # Experience
 >  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory).    [Detailed](./experience/experience_vision.html)
 
->  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics.  [Detailed](./experience/experience_gangnam.html)
+>  Underactuated control & 3D GAZEBO simulation, GangnamDynamics.  [Detailed](./experience/experience_gangnam.html)
 
 >  Rotary inverted pendulum, Dept. of Electrical and Information in Seoul National Univ. of Science and Technology
 
->  Action engine & 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
+>  Action engine & 3D GAZEBO simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
 
->  Navigation and mobile robot, NSCL(Nano system control laboratory).    [Detailed](./experience/experience_mobile.html)
+>  Mobile robot based on ROS, NSCL(Nano system control laboratory).    [Detailed](./experience/experience_mobile.html)
 
 >  Reinforcemnet Learning
  
