@@ -28,32 +28,32 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 ### Awards
-- Korea Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
+- Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 
-- Korea Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
+- Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
 
 - Awards, [Robogames(12th)](http://robogames.net/2016.php), California, USA. 2016.
 
-- Korea Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
+- Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 
-- Awards, RobotJapan(10, 11th), Tokyo, Japan 2016, 2017.
+- Awards, RobotJapan(9, 11th), Tokyo, Japan.
 
  
  
  
  
 ### Experience
->  Vision(Image processing using Depth camera) and Robot sports algorithm, RnD(Robot and DSP - Humanoid robot) laboratory
+>  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot) laboratory
 
->  Underactuated control and 3D simulation(GAZEBO), GangnamDynamics
+>  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics
 
->  Rotary inverted pendulum using arm core, Dept. of Electrical and Information
+>  Rotary inverted pendulum, Dept. of Electrical and Information in Seoul National Univ. of Sci & Tech 
 
->  Action engine and 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
-
->  Reinforcement learnig and machine learning, RLI, RND ML, Reinforcement learning Korea - Break DQN Team
+>  Action engine & 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
 
 >  Navigation and mobile robot, NSCL(Nano system control laboratory) 
+
+>  Reinforcemnet Learning
  
 
 
