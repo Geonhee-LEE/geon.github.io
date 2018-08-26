@@ -5,6 +5,8 @@
 >  The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
 
 
+
+
 # Careers
 
 ### During Undergraduate student
@@ -16,6 +18,8 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 >  Reseacher, [GangnamDynamics](http://www.modulabs.co.kr/Dynamics/), Modulabs. 2016
 >  Reseacher, [sHRI laboratory](https://shri-lab-kist.github.io/) (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
 
+
+
 ### During Graduate student
 >  Graduate reseacher, NSCL(Nano system control laboratory)(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
@@ -25,19 +29,19 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 
+
 # Awards
 >  Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 
 >  Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
 
->  Awards, [Robogames(12th)](http://robogames.net/2016.php), California, USA. 2016.
+>  Awards, Robogames(12th), California, USA. 2016.
 
 >  Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 
 >  Awards, RobotJapan(9, 11th), Tokyo, Japan.
 
- 
- 
+
  
  
 # Experience
