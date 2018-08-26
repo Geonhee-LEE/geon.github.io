@@ -1,4 +1,14 @@
+
+![Structure](../assets/rnd/1.png)
+![Structure](../assets/rnd/2.png)
+![Structure](../assets/rnd/3.png)
+![Structure](../assets/rnd/4.png)
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=X9RNKX111R)
+
+
+
 ### 사회적 상호작용
 <html>
 <head></head>
