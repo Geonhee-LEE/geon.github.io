@@ -25,7 +25,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 
-# [Awards](./awards.html)
+# Awards
 >  Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 
 >  Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
