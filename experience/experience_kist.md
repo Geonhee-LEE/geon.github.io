@@ -13,7 +13,7 @@ It is used to make motion file with xml format and classify motion along with mo
 ### 1.2 Node Description
 
 Action Manager :
-Manager Interface
+Manager Interface :
 Motion Controller :
 Movement(Navigation) Controller : 
 Gazing Controller :
