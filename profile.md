@@ -1,7 +1,7 @@
 
 ### Educational Background 
 ```
-- BS. in 2018 Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering
+- BS. Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering. 2018 
 - The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
 ```
 
@@ -43,7 +43,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
  
  
 ### Experience
->  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot) laboratory
+>  [Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot)](./experience_vision.html)laboratory
 
 >  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics
 
