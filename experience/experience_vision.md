@@ -10,6 +10,8 @@
 
 
 ### 사회적 상호작용
+
+```html
 <html>
 <head></head>
 <body>
@@ -17,3 +19,7 @@
 </body>
 </html>
 <br>
+```
+
+
+[![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](https://www.youtube.com/watch?v=X9RNKX111RY)
