@@ -10,13 +10,14 @@
 # Careers
 
 ### During Undergraduate student
->  Undergraduate reseacher,[RnD(Robot and DSP - Humanoid robot)laboratory](./rnd.html) (Advisor:[Youngseok Kim](
+>  Undergraduate reseacher,[RnD](./rnd.html)(Robot and DSP - Humanoid robot)laboratory (Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 
->  Software developer,[CADI(Mobile application development club)](https://cafe.naver.com/teamcadi/). 2014
+>  Software developer,[CADI](https://cafe.naver.com/teamcadi/)(Mobile application development club). 2014
 
 >  Reseacher, [GangnamDynamics](http://www.modulabs.co.kr/Dynamics/), Modulabs. 2016
->  Reseacher, [sHRI laboratory](https://shri-lab-kist.github.io/) (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
+
+>  Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
 
 
 
@@ -25,7 +26,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018
 
->  Member, [Reinforcement Learning Korea(BreakDQN](https://github.com/reinforcement-learning-kr/break_dqn). 2018  
+>  Member, Reinforcement Learning Korea[(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn). 2018  
 
 
 
@@ -45,15 +46,15 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
  
  
 # Experience
->  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory)[Detailed..](./experience_vision.html)
+>  Vision(Image processing using Depth camera) & Robot sports algorithm, RnD(Robot and DSP - Humanoid robot laboratory)[Detailed](./experience/experience_vision.html)
 
->  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics
+>  Underactuated control & 3D simulation(GAZEBO), GangnamDynamics[Detailed](./experience/experience_gangnam.html)
 
->  Rotary inverted pendulum, Dept. of Electrical and Information in Seoul National Univ. of Sci & Tech 
+>  Rotary inverted pendulum, Dept. of Electrical and Information in Seoul National Univ. of Science and Technology
 
->  Action engine & 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)
+>  Action engine & 3D simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology)[Detailed](./experience/experience_kist.html)
 
->  Navigation and mobile robot, NSCL(Nano system control laboratory) 
+>  Navigation and mobile robot, NSCL(Nano system control laboratory) [Detailed](./experience/experience_mobile.html)
 
 >  Reinforcemnet Learning
  
