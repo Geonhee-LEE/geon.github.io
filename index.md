@@ -25,7 +25,7 @@
 
 ###  Bio
 
--  [Award, Careers, Paper](./profile.html).
+-  [My Bio](./profile.html).
  
 
 
