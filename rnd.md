@@ -9,7 +9,7 @@ Room 317, Frontier Hall, Seoul National University of Technology, Gongneung 2(i)
 
 ## Abstract
 
- This paper describes the specifications of our humanoid soccer robots. We have developed this robot for Robocup2014. Robot RND-Spirit has 20 DOF. Robot RND-Ultra has 25 DOF, 1-CMOS sensors, 3-axis rate gyro sensors, 2-axis tilt sensor. This robot has fully autonomous system fitting the humanoid Robocup competition. We have researched stabilization and artificial intelligence of the humanoid robot. This robot is integrated our whole technique.
+ Robot RND-Spirit has 20 DOF. Robot RND-Ultra has 25 DOF, 1-CMOS sensors, 3-axis rate gyro sensors, 2-axis tilt sensor. This robot has fully autonomous system fitting the humanoid Robocup competition. We have researched stabilization and artificial intelligence of the humanoid robot. This robot is integrated our whole technique.
 
 ### 1.Introduction
 
