@@ -10,7 +10,8 @@ Preparing...
 // # GAZEBO 3D simulator
 // # Git, docker, jeckins, Ionic
 // Navigation based on ROS 
-// Machine Learning
+// CNN
+// Reinforcement learning
 // MPC(Model Predict Control):
 
 
