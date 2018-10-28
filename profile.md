@@ -30,6 +30,8 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Member, Reinforcement Learning Korea[(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn). 2018  
 
+>  Member, Reinforcement Learning Korea[(GAIL)](). 2018  
+
 
 
 
