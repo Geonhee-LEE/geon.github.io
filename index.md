@@ -8,7 +8,7 @@
 ### Interests : 
 - `Robotics`
 
-- `Model-based control(Model Predictive Control)`
+- `Model-based control`
 
 - `Reinforcement learning`
 
