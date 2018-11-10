@@ -1,5 +1,5 @@
 
-> [control](https://github.com/Geonhee-LEE/control)
+> [Control theory](https://github.com/Geonhee-LEE/control)
 
 > [Paper-Review(private)](https://github.com/Geonhee-LEE/paper-Review)
 
