@@ -56,7 +56,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Action engine design & 3D GAZEBO simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
 
->  Mobile service robot through TCP/IP communication for technology transfer with Zetabank, NSCL(Nano system control laboratory).    [Detailed](./experience/experience_mobile.html)
+>  Mobile service robot through TCP/IP communication for technology transfer, Zetabank & NSCL.    [Detailed](./experience/experience_mobile.html)
 
 >  Reinforcemnet Learning(DQN, GAIL)
  
