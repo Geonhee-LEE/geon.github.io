@@ -54,21 +54,17 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Underactuated control & 3D GAZEBO simulation, GangnamDynamics.  [Detailed](./experience/experience_gangnam.html)
 
->  Rotary inverted pendulum, Dept. of Electrical and Information in Seoul National Univ. of Science and Technology
-
->  Action engine & 3D GAZEBO simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
+>  Action engine design & 3D GAZEBO simulation([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
 
 >  Mobile service robot through TCP/IP communication for technology transfer with Zetabank, NSCL(Nano system control laboratory).    [Detailed](./experience/experience_mobile.html)
 
->  Reinforcemnet Learning
+>  Reinforcemnet Learning(DQN, GAIL)
  
 
 
-
-
 # Paper
->  Adult size Intelligent Humanoid Robot(Geon hee Lee, Dong won Jang, Byeong kyu Lim, A ri Seo). 2016
-
+>  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, 2016
+>  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018
 
 
 [back](./)
