@@ -36,13 +36,13 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 # Awards
->  Minister of Knowledge and Economy, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
+>  지식경제부 장관상, IRC(Internatinal Robot Contest), Intelligent section 2nd. Korea 2012.
 
->  Director of the Patent and Trademark Office, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
+>  특허청장상, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 2nd, Korea. 2015.
 
 >  Awards, Robogames(12th), California, USA(United States of America). 2016.
 
->  Presidential Award, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
+>  대통령 상, IRC(Internatinal Robot Contest), Humanoid robot sports(Intelligent pro-league) 1st, Korea. 2016.
 
 >  Awards, RobotJapan(9, 11th), Tokyo, Japan.
 
