@@ -63,8 +63,9 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 
 # Paper
->  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, 2016
->  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018
+>  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, 2016.
+
+>  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018.
 
 
 [back](./)
