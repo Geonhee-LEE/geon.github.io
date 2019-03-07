@@ -18,7 +18,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Reseacher, [GangnamDynamics](http://www.modulabs.co.kr/Dynamics/), Modulabs. 2016
 
->  Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institude of Science and Technology). 2017
+>  Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institute of Science and Technology). 2017
 
 
 
