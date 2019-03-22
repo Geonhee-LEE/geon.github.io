@@ -1,7 +1,7 @@
 
-# Name : Geon hee Lee 
+# Geonhee Lee 
 
-<img src="./images/profile2.png" width="300" height="360"  class="center">
+<!--img src="./images/profile2.png" width="300" height="360"  class="center"-->
 
 
 
