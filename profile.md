@@ -58,7 +58,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Mobile service robot through TCP/IP communication for technology transfer, Zetabank & NSCL.    [Detailed](./experience/experience_mobile.html)
 
->  Reinforcemnet Learning(DQN, GAIL)
+>  Reinforcemnet Learning(DQN, Let’s-do-irl)
  
 
 
