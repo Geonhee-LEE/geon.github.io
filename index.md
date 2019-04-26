@@ -37,7 +37,7 @@
 
 ###  Technical History
 
--  [Technical report & Study files](./technical_report.html).
+-  [Technical report & Study files](https://geonhee-lee.github.io/).
 
 
 
