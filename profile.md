@@ -2,7 +2,7 @@
 # Educational Background 
 >  BS. Seoul National Univ. of Science and Technology.  Dept. of Mechanical system design engineering. 2018 
 
->  The master´s course. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering
+>  MS. Seoul National Univ. of Science and Technology.  Dept. of Mechanical design robotics engineering. 2020
 
 
 
@@ -69,7 +69,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018.
 
->  합성곱 신경망을 이용한 이동 물체 인식 및 6축 로봇 매니퓰레이터 응용, Geonhee Lee, Chibum Lee, 한국정밀공학회 추계학술대회, 2019.
+>   Recognition for Moving Objects Using Convolutional Neural Network and Application to 6-DOF Robotic Manipulation, Geonhee Lee, Chibum Lee, 한국정밀공학회 추계학술대회, 2019.
 
 >  A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator, Geonhee Lee, Thesis, 2020.
 
