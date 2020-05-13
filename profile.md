@@ -32,7 +32,9 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Member, Reinforcement Learning Korea[(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl). 2018  
 
+- Syscon
 
+> R&D center / Researcher 
 
 
 # Awards
@@ -58,7 +60,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Mobile service robot through TCP/IP communication for technology transfer, Zetabank & NSCL.    [Detailed](./experience/experience_mobile.html)
 
->  Reinforcemnet Learning(DQN, Inverse Reinforcement Learning)
+>  Deep learning, Reinforcemnet Learning
  
 
 
@@ -66,6 +68,10 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 >  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, 2016.
 
 >  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018.
+
+>  합성곱 신경망을 이용한 이동 물체 인식 및 6축 로봇 매니퓰레이터 응용, Geonhee Lee, Chibum Lee, 한국정밀공학회 추계학술대회, 2019.
+
+>  A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator, Geonhee Lee, Thesis, 2020.
 
 
 [back](./)
