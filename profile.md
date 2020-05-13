@@ -34,7 +34,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 - Syscon
 
-> R&D center / Researcher 
+> R&D center / Researcher, 2020.01 ~
 
 
 # Awards
