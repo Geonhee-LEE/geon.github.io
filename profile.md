@@ -64,14 +64,25 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
  
 
 
+# Conferences
+>  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, Korea Robotics Society Annual Conference 14th, 2019.
+
+>   Recognition for Moving Objects Using Convolutional Neural Network and Application to 6-DOF Robotic Manipulation, Geonhee Lee, Chibum Lee, KSPE 2019 Autumn Conference, 2019.
+
+> Learning Vision-based Grasping using Deep Reinforcement Learning with Robotic manipulator, Geonhee Lee, Chibum Lee, Korea Robotics Society Annual Conference 15th, 2020.
+
+
 # Paper
->  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, 2016.
 
->  Development of mobile robot platform based on external communication using Robot Operating System, Geonhee Lee, Chibum Lee, 2018.
+>  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, Bachelor's Thesis, 2016.
 
->   Recognition for Moving Objects Using Convolutional Neural Network and Application to 6-DOF Robotic Manipulation, Geonhee Lee, Chibum Lee, 한국정밀공학회 추계학술대회, 2019.
+>  A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator, Geonhee Lee, Master's Thesis, 2020.
 
->  A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator, Geonhee Lee, Thesis, 2020.
+
+# Journals
+> Path Tracking with Nonlinear Model Predictive Control for Differential Drive Wheeled Robot, Jaewan Choi, Geonhee Lee, Chibum Lee, Journal of Korea Robotics Society, 2020
+
+> (Under review) Vision-based Grasping via Off-policy Reinforcement learning with Auxiliary Instance segmentation, Geonhee Lee, Jaewan Choi, Chibum Lee, ICROS, 2020
 
 
 [back](./)
