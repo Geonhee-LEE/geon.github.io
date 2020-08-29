@@ -16,7 +16,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Software developer,[CADI](https://cafe.naver.com/teamcadi/)(Mobile application development club). 2014
 
->  Reseacher, [GangnamDynamics](http://www.modulabs.co.kr/Dynamics/), Modulabs. 2016
+>  Reseacher, [GangnamDynamics](httphttps://home.modulabs.co.kr/lab-index/), Modulabs. 2016
 
 >  Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institute of Science and Technology). 2017
 
