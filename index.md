@@ -41,4 +41,3 @@
 
 ---
 
--  `Blog`:     [Deprecated & Privated](https://blog.naver.com/rjsgml6392)
