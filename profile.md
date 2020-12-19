@@ -29,6 +29,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 - Work Experiences
 
 > Researcher, [Syscon](http://syscon.kr/), 2020.01 ~
+
 > Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
 
  
