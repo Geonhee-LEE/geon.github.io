@@ -28,7 +28,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 - Work Experiences
 
-> Researcher(Technical Research Personnel), Syscon, 2020.01 ~
+> Researcher, [Syscon](http://syscon.kr/), 2020.01 ~
 
 
  
