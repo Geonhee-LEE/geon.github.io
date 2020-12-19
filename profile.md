@@ -14,7 +14,7 @@
 >  Undergraduate reseacher,[RnD (Robot and DSP - Humanoid robot)](./rnd.html)laboratory (Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
 
->  Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institute of Science and Technology). 2017
+>  Intern Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institute of Science and Technology). 2017
 
 
 
@@ -29,7 +29,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 - Work Experiences
 
 > Researcher, [Syscon](http://syscon.kr/), 2020.01 ~
-
+> Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
 
  
  
