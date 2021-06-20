@@ -73,7 +73,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 # Paper
 
->  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, Bachelor's Thesis, 2016.
+>  [Adult size Intelligent Humanoid Robot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/30266892-f7b8-4637-9a26-3a915b24e17b/2016_.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210620%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210620T072544Z&X-Amz-Expires=86400&X-Amz-Signature=3fadceb32ba99f09d33af5c341e2e6b162dda2f59c72ee2788425ea3ee30ba07&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%222016_.pdf%22), Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, Bachelor's Thesis, 2016.
 
 >  [A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator](https://library.seoultech.ac.kr/#/eds/detail?an=edsker.000004796858&dbId=edsker), Geonhee Lee, Master's Thesis, 2020.
 
