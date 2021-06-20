@@ -75,13 +75,13 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Adult size Intelligent Humanoid Robot, Geonhee Lee, Dongwon Jang, Byeong yu Lim, Ari Seo, Bachelor's Thesis, 2016.
 
->  A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator, Geonhee Lee, Master's Thesis, 2020.
+>  [A study on robotic grasp based on Instance segmentation and Reinforcement learning using 6-DoF robotic manipulator](https://library.seoultech.ac.kr/#/eds/detail?an=edsker.000004796858&dbId=edsker), Geonhee Lee, Master's Thesis, 2020.
 
 
 # Journals
-> Path Tracking with Nonlinear Model Predictive Control for Differential Drive Wheeled Robot, Jaewan Choi, Geonhee Lee, Chibum Lee, Journal of Korea Robotics Society, 2020
+> [Path Tracking with Nonlinear Model Predictive Control for Differential Drive Wheeled Robot](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10475067), Jaewan Choi, Geonhee Lee, Chibum Lee, Journal of Korea Robotics Society, 2020
 
-> (Under review) Vision-based Grasping via Off-policy Reinforcement learning with Auxiliary Instance segmentation, Geonhee Lee, Jaewan Choi, Chibum Lee, ICROS, 2020
+> (Under review) [Reinforce learning based dynamic obstacle avoidance and ynamic obstacle avoidance andintegration of path planning](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/58351011-34b4-4551-9d40-67e94f935391/ISR2000_DynamicObjectAvoidanceOnRL_v1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210620%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210620T041716Z&X-Amz-Expires=86400&X-Amz-Signature=fe81f0d77c06293a0d390eb39a2c762f9430d943c5595584e1d68c5c00a26bdf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ISR2000_DynamicObjectAvoidanceOnRL_v1.pdf%22),  Jaewan Choi, Geonhee Lee,Chibum Lee, ICROS, 2021
 
 
 [back](./)
