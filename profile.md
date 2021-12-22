@@ -81,7 +81,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 # Journals
 > [Path Tracking with Nonlinear Model Predictive Control for Differential Drive Wheeled Robot](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10475067), Jaewan Choi, Geonhee Lee, Chibum Lee, Journal of Korea Robotics Society, 2020
 
-> [Reinforcement learning based dynamic obstacle avoidance and integration of path planning](https://link.springer.com/article/10.1007/s11370-021-00387-2),  Jaewan Choi, Geonhee Lee,Chibum Lee, ICROS, 2021
+> [Reinforcement learning based dynamic obstacle avoidance and integration of path planning](https://link.springer.com/article/10.1007/s11370-021-00387-2),  Jaewan Choi, Geonhee Lee,Chibum Lee, Intelligent Service Robotics, 2021
 
 
 [back](./)
