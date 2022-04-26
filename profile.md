@@ -45,7 +45,6 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Deep learning, Reinforcemnet Learning [(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn) [(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl)
 
-> Multi-robot 
  
 
 # Awards
