@@ -69,11 +69,13 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 > 합성곱 신경망을 이용한 물체 인식 및 매니퓰레이터 응용, Jaewan Choi, Geonhee Lee, Chibum Lee, Korea Robotics Society Annual Conference 15th, 2020.
 
-> 정준우, 박태정, 이현진, 정준영, 이건희, 이치범, Bird’s eye view를 활용한 주변 환경 인식, 한국 생산 제조학회 2022년도 춘계 학술 대회, 2022
+> 정준우, 박태정, 이현진, 정준영, 이건희, 이치범, Bird’s eye view를 활용한 주변 환경 인식, 한국생산제조학회 2022년도 춘계 학술 대회, 2022
  
-> 정준우, 이현진, 이건희, 이치범, Semantic segmentation Bird’s eye view pseudo laser, 한국 자동차 공학회 추계 학술 대회, 2022
+> 정준우, 이현진, 이건희, 이치범, Semantic segmentation과 Bird’s eye view를 이용한 pseudo laser, 한국 자동차공학회추계학술대회, 2022
+ 
+> 박태정, 정준우, 이현진, 이건희, 이치범, 비전 기반 심층 강화학습 알고리즘 개발에 필요한 시뮬레이션 환경 구축, 한국생산제조학회 춘추계학술대회, 2022
 
-> 정준우, 이현진, 이건희, 양희란, 이치범, Semantic Segmentation 기반의 엣지 검출을 활용한 주변환경인식, 한국 자동차 공학회 춘계 학술 대회, 2023
+> 정준우, 이현진, 이건희, 양희란, 이치범, Semantic Segmentation 기반의 엣지 검출을 활용한 주변환경인식, 한국 자동차공학회춘계학술대회, 2023
 
 
 # Thesis
