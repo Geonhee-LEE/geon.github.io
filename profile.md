@@ -77,6 +77,8 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 > 정준우, 이현진, 이건희, 양희란, 이치범, Semantic Segmentation 기반의 엣지 검출을 활용한 주변환경인식, 한국 자동차공학회춘계학술대회, 2023
 
+> 이용재, 박정현, 이건희, 문명철, 황면중, D* lite 알고리즘을 활용한 자율주행 로봇의 경로 생성 구현, ICROS, 2023
+
 
 # Thesis
 
