@@ -28,10 +28,14 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 - Career
 
-> Manager ~ Principal Researcher (Mobile robot - Motion planning & Control part), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
+> Manager ~ Principal Researcher (Motion planning & Control part), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
+  - > Research Topic: Industrial Mobile robot(AMR) navigation 
+
 > Manager (Mobile robot - planning team), [ROBOTIS](https://www.robotis.com/), 2025.04 ~ current
+  -  > Research Topic: Outdoor delivery robot
 
 > Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
+
 > Member, [Auturbo](https://github.com/AuTURBO), 2024~2025
 
  
