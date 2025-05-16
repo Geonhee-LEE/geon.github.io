@@ -26,11 +26,13 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Member, Reinforcement Learning Korea[(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn) [(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl). 2018  
 
-- Work Experiences
+- Career
 
-> Researcher, [Syscon](http://syscon.kr/), 2020.01 ~
+> Manager ~ Principal Researcher (Mobile robot - Motion planning & Control part), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
+> Manager (Mobile robot - planning team), [ROBOTIS](https://www.robotis.com/), 2025.04 ~ current
 
 > Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
+> Member, [Auturbo](https://github.com/AuTURBO), 2024~2025
 
  
  
