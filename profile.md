@@ -26,7 +26,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 >  Member, Reinforcement Learning Korea[(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn) [(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl). 2018  
 
-- Career
+- After that,
 
 > Manager ~ Principal Researcher (Motion planning & Control part), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
   - > Research Topic: Industrial Mobile robot(AMR) navigation 
