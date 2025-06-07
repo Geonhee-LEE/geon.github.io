@@ -10,49 +10,51 @@
 # Careers
 
 -  During Undergraduate student.
-
+  
 >  Undergraduate reseacher,[RnD (Robot and DSP - Humanoid robot)](./rnd.html)laboratory (Advisor:[Youngseok Kim](
 http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profidx=02095)), Seoul National Univ. of Science and Technology. 2012
+  - > Study Topic: Image processing using OpenCV, MFC(Microsoft Foundation Classes) programming 
 
 >  Intern Reseacher, [sHRI](https://shri-lab-kist.github.io/) laboratory (Advisor:[JongSuk Choi](http://www.robot-intelligence.kr/index.php/JongSuk_Choi)), KIST(Korea Institute of Science and Technology). 2017
-
-
+  - > Research Topic: Social behavior and navigation
 
 -  During Graduate student.
 
 >  Graduate student, [NSCL(Nano system control laboratory]([https://nscl.github.io/NSCL-Master/](https://slime-antelope-19b.notion.site/Nano-Systems-Control-lab-649a99f341af49468260bdbaaf0e4636)))(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
->  Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018
+>  Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018 
 
 >  Member, Reinforcement Learning Korea[(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn) [(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl). 2018  
+  - > Study Topic: DQN(Off policy RL), IRL(Inverse Reinforcement Learning) 
 
-- After that,
+- Work careers.
 
-> Manager ~ Principal Researcher (Motion planning & Control part), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
-  - > Research Topic: Industrial Mobile robot(AMR) navigation 
+> AI Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
 
-> Technical adviser, [tvN: Start-up](http://program.tving.com/tvn/startup), 2020
-
-> Member, [Auturbo](https://github.com/AuTURBO), 2024~2025
+> Principal Researcher (Motion planning & Control part leader), [Syscon Robotics](http://sysconrobotics.com/), 2020.01 ~ 2025.04
+  - > Research Topic: Industrial Mobile robot(AMR) navigation  - Motion Planning, Path Tracking, Model Predictive Control, etc
 
 > Manager (Mobile robot - planning team), [ROBOTIS](https://www.robotis.com/), 2025.04 ~ current
-  -  > Research Topic: Outdoor delivery robot
+  -  > Research Topic: Outdoor delivery robot, swerve drive control
 
 
 
  
  
 # Research & Study
->  Image processing & Control, RnD(Robot and DSP - Humanoid robot laboratory).    [Detailed](./experience/experience_vision.html)
+>  [Image processing & Control, RnD(Robot and DSP - Humanoid robot laboratory)](./experience/experience_vision.html)   
 
->  Underactuated control & 3D GAZEBO simulation, GangnamDynamics.  [Detailed](./experience/experience_gangnam.html)
+>  [Underactuated control & 3D GAZEBO simulation, GangnamDynamics](./experience/experience_gangnam.html)
 
->  Social robot & mobile manipulator ([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology).    [Detailed](./experience/experience_kist.html)
+>  [Social robot & mobile manipulator](./experience/experience_kist.html) ([DeepTasK] Development of Social Robot Intelligence for Social Human-Robot Interaction of Service Robots), KIST(Korea Institude of Science and Technology). 
 
->  Mobile robot, Zetabank & NSCL.    [Detailed](./experience/experience_mobile.html)
+>  [Mobile robot, Zetabank & NSCL](./experience/experience_mobile.html)
 
 >  Deep learning, Reinforcemnet Learning [(BreakDQN)](https://github.com/reinforcement-learning-kr/break_dqn) [(Let’s-do-irl)](https://github.com/reinforcement-learning-kr/lets-do-irl)
 
+> Member, [Auturbo](https://github.com/AuTURBO), 2024~2025
+  - > 2024 Study Topic: Outdoor delivery mobile robot (ROS2 NAV2, robot_localization, 2D object detection)
+  - > 2025 Study Topic: Robotic Manipulator and Imitation Learning
  
 
 # Awards
