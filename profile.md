@@ -20,7 +20,7 @@ http://msd.seoultech.ac.kr/department/prof/machinery/?togo=list&menu=4511&profid
 
 -  During Graduate student.
 
->  Graduate student, [NSCL(Nano system control laboratory](https://nscl.github.io/NSCL-Master/))(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
+>  Graduate student, [NSCL(Nano system control laboratory]([https://nscl.github.io/NSCL-Master/](https://slime-antelope-19b.notion.site/Nano-Systems-Control-lab-649a99f341af49468260bdbaaf0e4636)))(Advisor:[Chibum Lee](https://chibum.wordpress.com)), Seoul National Univ. of Science and Technology. 2018
 
 >  Member, The Second, Third, Fourth RLI(Reinforcement Learning) Study. 2018
 
